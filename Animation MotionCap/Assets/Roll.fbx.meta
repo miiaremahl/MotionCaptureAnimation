@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 4234aee9e40610749b3d029e98745ef4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2341027594253812581
+    second: Roll
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Roll' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Noa_Spine1' has translation animation that will be
+      discarded.\n\t'Noa_Head' has translation animation that will be discarded.\n\t'Noa_LeftHand'
+      has translation animation that will be discarded.\n\t'Noa_RightHand' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Roll
+      takeName: Roll
+      internalID: 0
+      firstFrame: 287
+      lastFrame: 401
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Noa_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Noa_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Roll(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_Hips
+      parentName: Roll(Clone)
+      position: {x: -0.0035364833, y: 0.87068844, z: 0.035664402}
+      rotation: {x: -0.042772938, y: 0.047105994, z: 0.017806586, w: 0.99781483}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_Spine
+      parentName: Noa_Hips
+      position: {x: -0, y: 0.07525378, z: 0}
+      rotation: {x: -0.01744003, y: -0.04657645, z: -0.0041167946, w: 0.998754}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_Spine1
+      parentName: Noa_Spine
+      position: {x: -0.000000007450581, y: 0.208485, z: 0.000000014901161}
+      rotation: {x: -0.061618797, y: -0.015514197, z: -0.025030268, w: 0.9976653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_Neck
+      parentName: Noa_Spine1
+      position: {x: -0, y: 0.20386325, z: 0.018533025}
+      rotation: {x: 0.3164201, y: -0.022544583, z: -0.037771475, w: 0.94759876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_Head
+      parentName: Noa_Neck
+      position: {x: -0.000000044703484, y: 0.12505984, z: -0.017866433}
+      rotation: {x: -0.056275703, y: -0.016994873, z: 0.02030598, w: 0.9980641}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftShoulder
+      parentName: Noa_Spine1
+      position: {x: -0.036699966, y: 0.17886806, z: -0.0037705377}
+      rotation: {x: 0.108428724, y: 0.13360289, z: -0.047397193, w: 0.9839446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftArm
+      parentName: Noa_LeftShoulder
+      position: {x: -0.13470882, y: 0, z: 0}
+      rotation: {x: -0.076078065, y: -0.040113475, z: 0.078646965, w: 0.99318564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftForeArm
+      parentName: Noa_LeftArm
+      position: {x: -0.28411168, y: 0, z: 0}
+      rotation: {x: 0.08471483, y: 0.007319255, z: -0.009420073, w: 0.99633384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftHand
+      parentName: Noa_LeftForeArm
+      position: {x: -0.21487077, y: 0.000000834465, z: 0.000000074505806}
+      rotation: {x: 0.08469489, y: 0.007956328, z: 0.023445982, w: 0.9960993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightShoulder
+      parentName: Noa_Spine1
+      position: {x: 0.036514804, y: 0.17886806, z: -0.0037705377}
+      rotation: {x: 0.03604517, y: -0.01678405, z: 0.089340255, w: 0.99520725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightArm
+      parentName: Noa_RightShoulder
+      position: {x: 0.13470882, y: 0, z: 0}
+      rotation: {x: -0.0138479415, y: 0.037116837, z: -0.0947184, w: 0.9947156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightForeArm
+      parentName: Noa_RightArm
+      position: {x: 0.28411168, y: 0, z: 0}
+      rotation: {x: 0.05562689, y: 0.0065553472, z: -0.010394123, w: 0.998376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightHand
+      parentName: Noa_RightForeArm
+      position: {x: 0.21566549, y: 0, z: 0.000000014901161}
+      rotation: {x: 0.0554103, y: -0.03910683, z: -0.022542475, w: 0.99744284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftUpLeg
+      parentName: Noa_Hips
+      position: {x: -0.09177291, y: 0, z: 0}
+      rotation: {x: 0.09933709, y: -0.03237324, z: -0.0102972025, w: 0.9944738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftLeg
+      parentName: Noa_LeftUpLeg
+      position: {x: -0, y: -0.42662573, z: 0}
+      rotation: {x: 0.049468413, y: 0.026659193, z: 0.012435053, w: 0.9983424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftFoot
+      parentName: Noa_LeftLeg
+      position: {x: -0, y: -0.3760559, z: 0}
+      rotation: {x: -0.09339023, y: -0.02693212, z: -0.058022868, w: 0.99357253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_LeftToeBase
+      parentName: Noa_LeftFoot
+      position: {x: -0, y: -0.059652384, z: 0.13765937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightUpLeg
+      parentName: Noa_Hips
+      position: {x: 0.09177291, y: 0, z: 0}
+      rotation: {x: 0.09661356, y: -0.105595715, z: 0.0014866022, w: 0.9897036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightLeg
+      parentName: Noa_RightUpLeg
+      position: {x: -0, y: -0.42662573, z: 0}
+      rotation: {x: 0.038527384, y: -0.033848625, z: -0.052559216, w: 0.9973001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightFoot
+      parentName: Noa_RightLeg
+      position: {x: -0, y: -0.3760559, z: 0}
+      rotation: {x: -0.06756612, y: 0.13916658, z: -0.0038191376, w: 0.9879539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noa_RightToeBase
+      parentName: Noa_RightFoot
+      position: {x: -0, y: -0.059652384, z: 0.13765937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
